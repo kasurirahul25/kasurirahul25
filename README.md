@@ -15,10 +15,10 @@
 ---
 
 ### 🛠️ Tech Stack  
-- **Languages:** Python | C | Java | SQL  
-- **Web:** HTML | CSS | JavaScript | AngularJS (learning Node.js & MongoDB)  
-- **Cloud & Tools:** Microsoft Azure | NVIDIA CUDA Python | GitHub | VS Code  
-- **Databases:** MySQL | MongoDB (learning)  
+💻 **Languages:** Python | C | Java | SQL  
+🌐 **Web:** HTML | CSS | JavaScript | AngularJS (learning Node.js & MongoDB)  
+☁️ **Cloud & Tools:** Microsoft Azure | NVIDIA CUDA Python | GitHub | VS Code  
+🗄️ **Databases:** MySQL | MongoDB (learning)  
 
 ---
 
@@ -37,6 +37,35 @@
 - ✅ NVIDIA: CUDA Python  
 - ✅ NPTEL: Cloud Computing  
 - ✅ Coursera: Data Analysis with Excel, Java Programming, Python Automation  
+
+---
+
+### 📊 GitHub Stats & Activity  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kasurirahul25&show_icons=true&theme=radical" alt="Rahul's GitHub stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasurirahul25&theme=radical" alt="Rahul's GitHub streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasurirahul25&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kasurirahul25&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Rahul's GitHub trophies"/>
+</p>
+
+---
+
+### 🌐 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kasurirahul25&theme=react-dark&hide_border=true&area=true" alt="Rahul's Contribution Graph"/>
+</p>
 
 ---
 
