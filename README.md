@@ -61,10 +61,10 @@
 
 ---
 
-### 🌐 Contribution Graph  
+### 📈 Commit Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kasurirahul25&theme=react-dark&hide_border=true&area=true" alt="Rahul's Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kasurirahul25&custom_title=Commit%20Activity%20Graph&theme=react-dark&hide_border=true" alt="Rahul's Commit Graph"/>
 </p>
 
 ---
