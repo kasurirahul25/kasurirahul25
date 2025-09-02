@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 3rd-year B.Tech in Computer Science (Graduating in 2026)  
+- 🎓 4th-year B.Tech in Computer Science (Graduating in 2026)  
 - 💡 Interested in **Python, Java, C, SQL, Cloud, and AI**  
 - 🌱 Currently learning **MongoDB & Full-Stack Development**  
 - 🔭 Working on projects like **E-Commerce Website, Blockchain-Based Voting System, Hand Gesture Robot, Hepatitis Disease Prediction**  
