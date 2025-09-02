@@ -9,14 +9,14 @@
 - 💡 Interested in **Python, Java, C, SQL, Cloud, and AI**  
 - 🌱 Currently learning **MongoDB & Full-Stack Development**  
 - 🔭 Working on projects like **E-Commerce Website, Blockchain-Based Voting System, Hand Gesture Robot, Hepatitis Disease Prediction**  
-- 🎯 Goal: To become an **SDE at Microsoft or Google**  
+
 - 🏆 Top 10 in **Coding Hackathon (2023)**  
 
 ---
 
 ### 🛠️ Tech Stack  
 💻 **Languages:** Python | C | Java | SQL  
-🌐 **Web:** HTML | CSS | JavaScript | AngularJS (learning Node.js & MongoDB)  
+🌐 **Web:** HTML | CSS | JavaScript |React | AngularJS (learning Node.js & MongoDB )  
 ☁️ **Cloud & Tools:** Microsoft Azure | NVIDIA CUDA Python | GitHub | VS Code  
 🗄️ **Databases:** MySQL | MongoDB (learning)  
 
