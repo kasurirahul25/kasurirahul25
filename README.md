@@ -86,7 +86,7 @@
 ---
 
 ### 📂 Featured Projects  
-- 🛒 [E-Commerce Website](https://github.com/kasurirahul25/E-Commerce-Website) – Built with HTML, CSS, JS  
+- 🛒 Built with HTML, CSS, JS  
 - 🤖 Hand Gesture Controlled Robot – Assistive tech using Arduino & sensors  
 - 🏥 Hepatitis Disease Prediction – Achieved **95% accuracy** with ML in Python  
 - 🔐 Blockchain-Based Voting System – Ensuring transparency in elections  
