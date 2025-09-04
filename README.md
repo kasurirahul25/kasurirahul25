@@ -140,8 +140,8 @@
 ---
 
 ### 📫 Connect with Me  
-- 📧 Email: **kasurirahul25@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kasuri-rahul)  
+- 📧 Email: **kasurirahul6@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kasuri-rahul-9b9274290/)  
 - 💻 [GitHub](https://github.com/kasurirahul25)  
 
 ---
