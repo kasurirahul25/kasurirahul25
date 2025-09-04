@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">👋 Hi there, I'm <span style="color:#ff4c8b;">Kasuri Rahul</span></h1>
-<h3 align="center">🚀 Software Developer | AI Enthusiast | Cloud Learner</h3>
+<h3 align="center">🚀 Software Developer | AI & ML Enthusiast | Cloud Learner</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 🎓 Final-year **B.Tech CSE Student (2026)** at SR University  
 💡 Exploring **AI, Cloud Computing, and Full-Stack Development**  
 🌱 Currently learning **MongoDB & MERN stack**  
-🔭 Projects include **E-Commerce Website, Blockchain Voting, Hepatitis Prediction, Gesture Robot**  
+🔭 Projects include **E-Commerce Website, Blockchain Voting, Hepatitis Prediction (ML), Gesture Robot**  
 🏆 Ranked **Top 10 in Coding Hackathon (2023)**  
 
 ---
@@ -37,6 +37,16 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
+### 🤖 Machine Learning & AI  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+
+**ML Algorithms:** Logistic Regression | Decision Trees | Random Forest | SVM | KNN | Gradient Boost  
+
 ### 🛠️ Tools & Cloud  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
@@ -51,7 +61,7 @@
 
 - 🛒 **[E-Commerce Website](https://github.com/kasurirahul25/E-Commerce-Website)** – Built with HTML, CSS, JS  
 - 🤖 **Hand Gesture Controlled Robot** – Assistive tech using Arduino & sensors  
-- 🏥 **Hepatitis Disease Prediction** – 95% accuracy using ML (Python)  
+- 🏥 **Hepatitis Disease Prediction (ML)** – Achieved **95% accuracy** using **Random Forest, SVM, Logistic Regression** in Python  
 - 🔐 **Blockchain-Based Voting System** – Ensuring transparent elections  
 - 📅 **B.Tech Timetable Website** – Clean & simple HTML + CSS  
 
