@@ -94,9 +94,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kasurirahul25&show_icons=true&theme=radical" alt="Rahul's GitHub stats" height="180"/>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasurirahul25&theme=radical" alt="Rahul's GitHub streak" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=kasurirahul25&theme=radical&hide_border=true" alt="Rahul's GitHub streak" height="180"/>
 </p>
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasurirahul25&layout=compact&theme=radical" alt="Top Languages" height="160"/>
