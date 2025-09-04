@@ -4,12 +4,26 @@
 
 ---
 
-### 👨‍💻 About Me  
-- 🎓 4th-year B.Tech in Computer Science (Graduating in 2026)  
-- 💡 Interested in **Python, Java, C, SQL, Cloud, and AI**  
-- 🌱 Currently learning **MongoDB & Full-Stack Development**  
-- 🔭 Working on projects like **E-Commerce Website, Blockchain-Based Voting System, Hand Gesture Robot, Hepatitis Disease Prediction**  
-- 🏆 Top 10 in **Coding Hackathon (2023)**  
+## 👨‍💻 About Me  
+
+🎓 **4th-year B.Tech CSE Student** (Graduating in *2026*)  
+
+💡 Passionate about:  
+`Python` | `Java` | `SQL` | `MongoDB` | `Cloud` | `AI` | `Full-Stack Development`  
+
+🌱 **Currently Learning:**  
+- Full-Stack Development  
+- Advanced System Design  
+
+🔭 **Projects I’m Working On:**  
+- 🏥 Doctor Appointment System  
+- 🤖 Chat Bot  
+
+🏆 **Achievements:**  
+- 🥇 Top 10 in *Coding Hackathon 2024*  
+
+---
+✨ *Always exploring, always building, always learning!* 🚀 
 
 ---
 
