@@ -140,11 +140,20 @@
 ---
 ### 📫 Connect with Me  
 
-- 📧 **Email**: [![Gmail Badge](https://img.shields.io/badge/-kasurirahul6@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kasurirahul6@gmail.com)  
-- 💼 **LinkedIn**: [![LinkedIn Badge](https://img.shields.io/badge/-Kasuri%20Rahul-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kasuri-rahul-9b9274290/)  
-- 💻 **GitHub**: [![GitHub Badge](https://img.shields.io/badge/-kasurirahul25-black?style=flat&logo=github&logoColor=white)](https://github.com/kasurirahul25)  
+### 📫 Connect with Me  
 
----
+<p align="center">
+  <a href="mailto:kasurirahul6@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kasuri-rahul-9b9274290/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/kasurirahul25">
+    <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+  </a>
+</p>
+
 
 
 ✨ *"Code. Create. Innovate. Repeat."*  
