@@ -1,4 +1,4 @@
-#  I'M Kasuri Rahul  -2026
+#  I'm Kasuri Rahul  -2026
 
 🚀 Passionate about **Software Development, AI, and Cloud Computing** | Final-year B.Tech Student at **SR University**  
 
