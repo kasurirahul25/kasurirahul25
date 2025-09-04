@@ -38,14 +38,17 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ### 🤖 Machine Learning & AI  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-
-**ML Algorithms:** Logistic Regression | Decision Trees | Random Forest | SVM | KNN | Gradient Boost  
+![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge)  
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-1E90FF?style=for-the-badge)  
+![Decision Trees](https://img.shields.io/badge/Decision%20Trees-8B0000?style=for-the-badge)  
+![SVM](https://img.shields.io/badge/SVM-800080?style=for-the-badge)  
+![KNN](https://img.shields.io/badge/KNN-FFD700?style=for-the-badge)  
+![Gradient Boost](https://img.shields.io/badge/Gradient%20Boost-FF4500?style=for-the-badge)  
 
 ### 🛠️ Tools & Cloud  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -61,7 +64,7 @@
 
 - 🛒 **[E-Commerce Website](https://github.com/kasurirahul25/E-Commerce-Website)** – Built with HTML, CSS, JS  
 - 🤖 **Hand Gesture Controlled Robot** – Assistive tech using Arduino & sensors  
-- 🏥 **Hepatitis Disease Prediction (ML)** – Achieved **95% accuracy** using **Random Forest, SVM, Logistic Regression** in Python  
+- 🏥 **Hepatitis Disease Prediction (ML)** – Achieved **95% accuracy** using **ML algorithms in Python (Random Forest, SVM, Logistic Regression, etc.)**  
 - 🔐 **Blockchain-Based Voting System** – Ensuring transparent elections  
 - 📅 **B.Tech Timetable Website** – Clean & simple HTML + CSS  
 
