@@ -98,7 +98,7 @@
 - ✅ Microsoft Certified: Azure Fundamentals  
 - ✅ Cisco: CCNA (Networks, Routing & Cybersecurity)  
 - ✅ NVIDIA: CUDA Python  
-- ✅ NPTEL: Cloud Computing  
+- ✅ NPTEL: Theory of Computation
 - ✅ Coursera: Data Analysis with Excel, Java Programming, Python Automation  
 
 ---
