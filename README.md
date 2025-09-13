@@ -140,7 +140,7 @@
 ---
 ### 📫 Connect with Me  
 
-### 📫 Connect with Me  
+
 
 <p align="center">
   <a href="mailto:kasurirahul6@gmail.com">
